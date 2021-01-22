@@ -1,2 +1,2 @@
 # rasp-backup
-Backup your raspberry pi easily.
+Back-up your raspberry pi easily and periodically.
